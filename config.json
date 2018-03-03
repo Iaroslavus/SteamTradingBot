@@ -1,0 +1,7 @@
+{
+	"username": "accusername",
+	"password" : "accpass",
+	"sharedSecret": "hereiskey",
+	"identitySecret": "hereiskey",
+	"ownerID":"idofthemainaccount"
+}

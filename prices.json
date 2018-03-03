@@ -1,0 +1,12 @@
+{
+	"Scrap Metal":
+	{
+		"buy":1,
+		"sell":2,
+	},
+	"Reclaimed Metal":
+	{
+		"buy":5,
+		"sell":6
+	}
+}

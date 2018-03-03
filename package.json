@@ -1,0 +1,23 @@
+{
+  "name": "SteamTradingBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+"start": "nodemon ./bot.js --exec babel-node -e js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steam",
+    "trade",
+    "bot"
+  ],
+  "author": "iaroslavus",
+  "license": "ISC",
+  "devDependencies": {
+    "steam-user": "^3.25.1",
+    "steam-totp": "^2.0.1",
+    "steamcommunity": "^3.34.1",
+    "steam-tradeoffer-manager": "^2.9.3"
+  }
+}
